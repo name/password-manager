@@ -4,7 +4,7 @@ Simple application to store passwords and accounts for any website/application.
 
 ## Notes
 
-* This project is still in development as of July 27th, 2018.
+* This project is finished as of July 29th, 2018.
 
 ## Authors
 
