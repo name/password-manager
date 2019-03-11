@@ -8,7 +8,7 @@ Simple application to store passwords and accounts for any website/application.
 
 ## Authors
 
-* **Justin** - *Initial work* - [name](https://github.com/name)
+* **Charlie** - *Initial work* - [name](https://github.com/name)
 
 ## License
 
